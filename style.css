@@ -4,3 +4,48 @@ html{scroll-behavior: smooth;}h1,h2,h3,h4,h5,h6{font-family: 'Montserrat', sans-
     color: #FFCC29 !important;
     text-decoration: underline !important;
 }
+/* ////////////////// */
+/* Blog page starts */
+/* ////////////////// */
+.blog-main , .blog-sidebar{
+margin:0 ;
+padding: 0;
+float: left;
+}
+.blog-section main img{
+    width: 300px;
+    height: auto;
+  
+}
+.blog-sidebar a{
+    color:#fdca40;
+    text-decoration:none;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.blog-sidebar a:hover{
+    color: white;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+
+/* ////////////////// */
+/* Blog page ends */
+/* ////////////////// */
+
+/* ////////////////// */
+/* work page starts */
+/* ////////////////// */
+
+.work-section img{
+    width: 300px;
+    height: auto;
+}
+
+
+
+/* ////////////////// */
+/* work page ends*/
+/* ////////////////// *
